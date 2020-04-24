@@ -1,0 +1,9 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.configPath": ".prettierrc",
+  "prettier.jsxSingleQuote": true,
+  "prettier.prettierPath": "node_modules/prettier",
+  "prettier.requireConfig": true,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true
+}
