@@ -1,0 +1,13 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "a project using react",
+  "main": "index.js",
+  "author": "Daniel Gonzalez Reina <dangonrei@gmail.com>",
+  "license": "copyrighted",
+  "private": true,
+  "scripts": {
+    "dev": "webpack-dev-server --inline --hot",
+    "build": "webpack --config webpack.config.prod.js -p"
+  }
+}

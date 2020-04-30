@@ -1,0 +1,17 @@
+# Node modules
+node_modules
+
+# Babel cache
+babel_cache
+
+# Built files
+index.bundle.js
+index.bundle.js.LICENSE.txt
+
+# Hidden files
+.*
+!.gitignore
+!.env.example
+!.prettierrc
+!.babelrc
+!.eslintrc
