@@ -1,0 +1,14 @@
+{
+  "name": "nextjs-project",
+  "version": "1.0.0",
+  "description": "A project using Next.js",
+  "main": "index.js",
+  "author": "Daniel Gonzalez Reina <dangonrei@gmail.com>",
+  "license": "private",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
